@@ -1,2 +1,6 @@
 /build*
 *.pyc
+
+openssl-1.1.1t.tar.gz
+openssl-1.1.1t
+ssl_install
