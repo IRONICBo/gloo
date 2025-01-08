@@ -235,3 +235,7 @@ endif()
 if(BUILD_EXAMPLES)
   add_subdirectory(examples)
 endif()
+
+if(BUILD_TCP_BENCHMARK)
+  add_subdirectory(tcpbench)
+endif()
